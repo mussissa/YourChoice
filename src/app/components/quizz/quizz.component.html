@@ -1,0 +1,36 @@
+<div class="quizz_container">
+ <div class="quizz_logo">
+    <img src="assets/imgs/choice.png" alt="" srcset="">
+    
+    <h3>{{title}}</h3>
+ </div>
+
+ <div *ngIf=!citySelected class="quizz_cidade">
+      <h3>Escolha sua cidade</h3>
+ </div>
+
+ <div *ngIf=!citySelected class="quizz_options">
+   <button *ngFor="let optionCity of cidades;  let ind = index"
+   (click)="playerCity(optionCity)"
+   class="btn-option-cidade">{{optionCity}}</button>
+ </div>
+ 
+
+ <div *ngIf="(!finished && citySelected)" class="quizz_questions">
+    <h3>{{questionSelected.question}}</h3>
+
+ </div>
+
+ <div  *ngIf="(!finished && citySelected)" class="quizz_options">
+    <button  *ngFor="let option of questionSelected.options; let i = index"
+    (click)="playerChoose(option.alias)"
+    class="btn-option">
+        {{option.proposta }}
+    </button>
+ </div>
+
+ <div *ngIf=finished class="quizz_results">
+    <h1>O seu resultado é:</h1>
+    <strong><p>{{answersSelected}} </p></strong>
+ </div>
+</div>

@@ -1,0 +1,490 @@
+{
+  "title": "Suas ideias combinam com qual candidato?",
+
+  "cidade": [
+    {
+      "id": 1,
+      "sigla": "São Paulo",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Sobre o social o que você gostaria ?",
+          "options": [
+            { "id": 1, "proposta": "Criar um projeto de apoio para pais e cuidadores responsáveis por crianças e adolescentes com deficiência", "alias": "Tabata" },
+            { "id": 2, "proposta": "Capacitação profissional", "alias": "Marçal" },
+            { "id": 3, "proposta": "Implantar o Serviço de Locação Social. disponibilizar novas moradias, requalificando com retrofit edifícios públicos abandonados para locação social e serviço social de moradi", "alias": "Boulos" },
+            { "id": 4, "proposta": "Apoiar estudos e pesquisas de vacinas contra vícios em drogas", "alias": "Nunes" },
+            { "id": 5, "proposta": "Programa de emprego para a população em situação de rua. O programa será estruturado em dois módulos: capacitação técnica e contratação para o trabalho, com acompanhamento social e psicológico.", "alias": "Boulos" },
+            { "id": 6, "proposta": " Unificar todos os benefícios sociais da Prefeitura ", "alias": "Tabata" }
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Sobre a segurança de SP ?",
+          "options": [
+            { "id": 1, "proposta": "Investimento em inteligência e tecnologia", "alias": "Marçal" },
+            { "id": 2, "proposta": "Criar o Centro de Justiça Restaurativa com capacidade de receber e julgar imediatamente os crimes relacionados a drogas que ocorram na região central, estabelecendo sanções que busquem reparar os danos causados a terceiros e recuperar as pessoas da dependência química", "alias": "Tabata" },
+            { "id": 3, "proposta": "Expandir programa de videomonitoramento. Batizada de Smart Sampa", "alias": "Nunes" },
+            { "id": 4, "proposta": "Força-Tarefa de Enfrentamento à Receptação de Celulares Roubados", "alias": "Boulos" }
+          ]
+        },
+        {
+			"id": 3,
+			"question": "Na economia qual alternativa para SP ?",
+			"options": [
+			  { "id": 1, "proposta": "Criar o Programa Pode Regularizar para impulsionar o setor imobiliário e ampliar o alcance da regularização fundiária em toda a cidade ", "alias": "Nunes" },
+			  { "id": 2, "proposta": "Digitalizar pequenos negocioa e estimula venda online", "alias": "Marçal" },
+			  { "id": 3, "proposta": "Criar o SP 24 horas, programa de economia da noite paulistana. Iniciativa intersetorial que busca valorizar e desenvolver o setor de entretenimento noturno e serviços 24 horas em São Paulo", "alias": "Tabata" },
+			  { "id": 4, "proposta": "Desburocratizar e digitalizar serviços publicos", "alias": "Marçal" }
+			]
+		  },
+		  {
+			"id": 4,
+			"question": "Na Saúde qual alternativa mais te agrada ?",
+			"options": [
+			  { "id": 1, "proposta": "Universalizar os serviços de telemedicina para todos os cidadãos SUS dependentes ", "alias": "Tabata" },
+			  { "id": 2, "proposta": "Poupa tempo da saúde acabar com a filas de espera de exames e consultas rede municipal", "alias": "Boulos" },
+			  { "id": 3, "proposta": "Criar prontuário único com histórico ", "alias": "Marçal" },
+			  { "id": 4, "proposta": "Criar Mais médicos municipais especialidade", "alias": "Boulos" },
+			  { "id": 5, "proposta": "Implementar programas de gestão de resíduos e construção de unidades de saúde com tecnologias sustentáveis", "alias": "Nunes" },
+			  { "id": 6, "proposta": "Ampliar a disponibilidade de especialidades médicas nas unidades de saúde municipais", "alias": "Nunes" }
+			]
+		  },
+		  {
+			"id": 5,
+			"question": "Na educação o que se fazer ?",
+			"options": [
+			  { "id": 1, "proposta": "Criar programa Escola Aberta. Transformar a escola em um espaço de convivência durante o fim de semana ", "alias": "Boulos" },
+			  { "id": 2, "proposta": "Criar projeto Rolê Ecológico será implementado para cerca de 40 mil estudantes do 6°ano de todas as EMEFs", "alias": "Nunes" },
+			  { "id": 3, "proposta": "Remuneração dos profissionais por resultado ", "alias": "Marçal" },
+			  { "id": 4, "proposta": "Criar escola olímpica, com foco em formação atletica", "alias": "Marçal" },
+			  { "id": 5, "proposta": "Realizar letramento racial contínuo para todo o corpo de servidores", "alias": "Tabata" },
+			  { "id": 6, "proposta": "Psicólogos em todas as escolas. Em parceria com a área da Saúde, todas as escolas", "alias": "Boulos" }
+			]
+		  },
+		  {
+			"id": 6,
+			"question": "Qual das opções voçê mais gostaria ?",
+			"options": [
+			  { "id": 1, "proposta": "Limpeza do Tiête", "alias": "Marçal" },
+			  { "id": 2, "proposta": "Criar projeto Rolê Ecológico será implementado para cerca de 40 mil estudantes do 6°ano de todas as EMEFs", "alias": "Nunes" },
+			  { "id": 3, "proposta": "Bolsões de estaciopropostanto junto as estações de metro ", "alias": "Marçal" },
+			  { "id": 4, "proposta": "Revogar o confisco de 14% e valorizar os servidores", "alias": "Boulos" },
+			  { "id": 5, "proposta": "Remodelar o Sistema de Bilhetagem, estudando a viabilidade para o pagamento do transporte com cartão de crédito e débito e aplicativo de celular", "alias": "Tabata" },
+			  { "id": 6, "proposta": "Criar Corredores Verdes. Arborizar vias e áreas públicas", "alias": "Boulos" },
+			  {"id": 7, "proposta": "Sete novos corredores de ônibus. Além da criação de um sistema de VLT (Veículo Leve sobre Trilhos)", "alias":"Nunes"},
+			  { "id": 8, "proposta": "Lançar um filômetro, que informe em tempo real, de maneira pública e transparente, a disponibilidade de vagas de acolhimento em cada centro de acolhida, especialmente, durante o período de frio", "alias": "Tabata"}
+			]
+		  }
+
+      ],
+	  "results": {
+		"Boulos": "Suas escolhas são mais coerente com as proposta de Guilherme Boulos",
+		"Marçal": "Suas escolhas são mais coerente com as proposta de Pablo Marçal",
+		"Nunes":  "Suas escolhas são mais coerente com as proposta de Ricardo Nunes",
+		"Tabata": "Suas escolhas são mais coerente com as proposta de Tabata Amaral"
+	  }
+    },
+    {
+      "id": 2,
+      "sigla": "Rio de Janeiro",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Sobre social o que você gostaria ? ?",
+          "options": [
+            { "id": 1, "proposta": "Revisar o sistema previdenciário para garantir segurança financeira ao município e bem-estar aos beneficiários", "alias": "Ramagem" },
+            { "id": 2, "proposta": "Implantar o Programa de transferência de renda Carioquinha destinado a famílias vulneráveis com crianças de 0 a 6 anos", "alias": "Paes" },
+            { "id": 3, "proposta": "Viabilizar transporte adequado para a realização de consultas, exames e cirurgias destinadas a pessoas com deficiência na rede municipal de Saúde", "alias": "Paes" },
+            { "id": 4, "proposta": "Mais inventimentos nos centros de atendimentos públicos para mulheres e LGBTIA+", "alias": "Ju" },
+            { "id": 5, "proposta": "Reforma tributaria municipal ampliando o pagamento de impostos pelos mais ricos", "alias": "Ju" },
+            { "id": 6, "proposta": "Criar programa quem está nas ruas: Identificando e acolhendo pessoas em situação de rua com soluções personalizadas e reintegração social, promovendo a reconexão com as respectivas famílias e redes de apoio", "alias": "Ramagem" }
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Economicamente o que é interessante para RJ?",
+          "options": [
+            { "id": 1, "proposta": "Retomada do setor da construção naval no Rio de Janeiro e estatizar Petrobras e Eletrobas em 100%", "alias": "Ju" },
+            { "id": 2, "proposta": "Apoio a economia popular e aos pequenos comerciantes", "alias": "Ju" },
+            { "id": 3, "proposta": "Bolsa de Valores do Rio virar realidade até 2026", "alias": "Paes" },
+            { "id": 4, "proposta": "Criar um programa unificado de qualificação de mão de obra carioca, direcionado a empregos verdes, inovação, turismo e tecnologia", "alias": "Paes" },
+			{ "id": 5, "proposta": "Amplia incentivos fiscais para fomentar empresas, gerar empregos e criar um ambiente de geração de novos negócios na Cidade", "alias": "Ramagem" },
+            { "id": 6, "proposta": "Criar um Hub para estimular a tecnologia nos negócios da cidade, criar o microcrédito e fortalecer o empreendedorismo social", "alias": "Ramagem" }
+
+          ]
+        },
+		{
+			"id": 3,
+			"question": "Sobre a mobilidade urbana o que você gostaria ?",
+			"options": [
+			  { "id": 1, "proposta": "Implantar um projeto de ordepropostanto do trânsito com a implantação de faixa azul para motos nas principais vias da cidade", "alias": "Paes" },
+			  { "id": 2, "proposta": "Modernização do parque semafórico (do analógico para o digital)", "alias": "Ramagem" },
+			  { "id": 3, "proposta": "Estatizar o transposte de onibus e metro", "alias": "Ju" },
+			  { "id": 4, "proposta": "Reprogramação da utilização da Av. Brasil para diminuir consideravelmente o engarrafamento", "alias": "Ramagem" },
+			  { "id": 5, "proposta": "Implementar o programa de incentivo à transição energética da mobilidade da cidade, incluindo a eletrificação da frota de ônibus", "alias": "Paes" }
+  
+			]
+		  },
+		  {
+			"id": 4,
+			"question": "Na educação para você seria melhor ?",
+			"options": [
+			  { "id": 1, "proposta": "Reajuste salaria de 22% a todos os profissionais de educação do município ", "alias": "Ju" },
+			  { "id": 2, "proposta": "Valorização do ensino da historia afro-brasileira nas escolas municipais", "alias": "Ju" },
+			  { "id": 3, "proposta": "Vamos revisar o plano de carreira, cargos e salários dos profissionais de educação", "alias": "Ramagem" },
+			  { "id": 3, "proposta": "Investimento na adequação e melhoria da estrutura física das escolas, incluindo a instalação de ar-condicionado em todas as unidades", "alias": "Ramagem" },
+			  { "id": 4, "proposta": "Ofertar ensino de Programação Computacional para 200 mil alunos da rede pública municipal", "alias": "Paes" },
+			  { "id": 5, "proposta": "Criar mais 13.000 novas vagas em creches e pré-escolas", "alias": "Paes" }
+  
+			]
+		  },
+		  {
+			"id": 5,
+			"question": "Na saude qual sua opnião ?",
+			"options": [
+			  { "id": 1, "proposta": "Implementa uma reestruturação abrangente das Policlínicas, para aprimorar o atendimento à saúde da população. especializar todas as Policlínicas em pediatria e geriatria, bem como em outras especialidades médicas. A reestruturação incluirá a modernização dos equipamentos e a qualificação do pessoal ", "alias": "Ramagem" },
+			  { "id": 2, "proposta": "Supervisionar com mais rigor o trabalho e o atendimento dos médicos", "alias": "Paes" },
+			  { "id": 3, "proposta": "Construção de um laboratório municipal de medicamentos", "alias": "Ju" },
+			  { "id": 3, "proposta": "Investimento na adequação e melhoria da estrutura física das escolas, incluindo a instalação de ar-condicionado em todas as unidades", "alias": "Ramagem" },
+			  { "id": 4, "proposta": "Criar dois novos Super Centros Cariocas de Saúde, um em Campo Grande e outro na Zona Norte, e já deixar prontos os projetos para a implantação de mais dois (um em Realengo e outro em Jacarepaguá)", "alias": "Paes" },
+			  { "id": 5, "proposta": "Fim das parcerias publico privadas na saúde", "alias": "Ju" }
+  
+			]
+		  },
+		  {
+			"id": 6,
+			"question": "Na segurança qual sua opnião ?",
+			"options": [
+			  { "id": 1, "proposta": "Enfrentamento direto e diário as milicias com afastamente imediato de servidores que tenha ligação", "alias": "Ju" },
+			  { "id": 2, "proposta": "Supervisionar com mais rigor o trabalho e o atendimento dos médicos", "alias": "Paes" },
+			  { "id": 3, "proposta": "Integração das Forças de Segurança e a Guarda Municipal para garantir eficácia no combate à criminalidade e promover a segurança pública", "alias": "Ramagem" },
+			  { "id": 4, "proposta": "Defesa do fim de todas as operações policiais militares criminosas nas favelas", "alias": "Ju" },
+			  { "id": 5, "proposta": "Permitir que um grupo de elite da Guarda Municipal (incluindo o Grupo de Operações Especiais, o Grupo Tático Móvel e a Ronda Maria da Penha), após a implantação de um treipropostanto rigoroso, possa fazer uso de armas de fogo", "alias": "Paes" }
+  
+			]
+		  }
+      ],
+	  "results": {
+		"Paes": "Suas escolhas são mais coerente com as proposta de Eduardo Paes",
+		"Ramagem": "Suas escolhas são mais coerente com as proposta de Alexandre Ramagem",
+		"Ju": "Suas escolhas são mais coerente com as proposta de Juliete Pantoja"
+	  }
+    },
+    {
+      "id": 3,
+      "sigla": "Salvador",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Sobre social o que você gostaria ?",
+          "options": [
+			{ "id": 1, "proposta": "Promover concurso público para assistentes sociais, psicólogos, sociólogos, pedagogos, dentre outros profissionais, para atuarem em CRAS, Centro POP, Unidades de Acolhimento Institucional e os Centros de Referência Especializados da Assistência Social (CREAS)", "alias": "Kleber" },
+            { "id": 2, "proposta": "Construção de 24 CAPs (Centros de Atenção Psicossocial) para atender adultos, crianças e pessoas com uso problemático de álcool e outras drogas, além de 12 unidades de acolhimento para adultos e crianças e 5 serviços de residência terapêutica", "alias": "Geraldo" },
+            { "id": 3, "proposta": "Saída da situação de rua pela oferta do aluguel social com a prefeitura pagando a locação da moradia e mobiliando a casa com valor de até 3 salários mínimos para aquisição de móveis e eletrodomésticos", "alias": "Bruno" },
+            { "id": 4, "proposta": "Ampliar o número de Unidades de Acolhimento Institucional para idosos, pois Salvador dispõe apenas do Abrigo D. Pedro II", "alias": "Kleber" },
+            { "id": 5, "proposta": "Ofertar o CadÚnico em todas as unidades assistenciais da rede", "alias": "Bruno" },
+            { "id": 6, "proposta": "Triplicar as vagas em cursos para pessoas em situação de vulnerabilidade, destinados ao desenvolvimento de habilidades e construção de autonomia financeira.", "alias": "Bruno" }
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Economicamente o que é interessante para você ?",
+          "options": [
+            { "id": 1, "proposta": "Atrair novos estaleiros para construção e reparo de embarcações", "alias": "Bruno" },
+            { "id": 2, "proposta": "Criar o Programa Comércio é com Elas, de capacitação e empreendedorismo para facilitar o retorno da mulher ao mundo trabalho, pelo fortalecimento ou resgate de sua cidadania", "alias": "Bruno" },
+            { "id": 3, "proposta": "Reorganizar e ampliar o sistema de concessão de credenciais para ambulantes que atuam nas festas populares e assegurar melhores condições de trabalho", "alias": "Kleber" },
+            { "id": 4, "proposta": "Criar uma plataforma municipal de transporte por aplicativo visando garantir mais qualidade e segurança no trabalho e ampliação da renda dos trabalhadores e das trabalhadoras", "alias": "Kleber" },
+			{ "id": 5, "proposta": "Apoiar os mais de 330 mil trabalhadores(as) da economia popular urbana (pessoas que trabalham com a produção e venda de alimentos e bebidas, serviços de estética, ambulantes), incluindo, além de assistência técnica, cursos de qualificação, crédito, doação de equipamentos, cobertura previdenciária (MEI);", "alias": "Geraldo" },
+			{ "id": 6, "proposta": "Abolir a política de repressão ao trabalho informal com extinção do “RAPA” e oferta de assistência técnica e jurídica aos trabalhadores informais", "alias": "Kleber" }
+
+          ]
+        },
+        {
+			"id": 3,
+			"question": "Sobre a mobilidade urbana o que você gostaria ?",
+			"options": [
+			  { "id": 1, "proposta": "Reestruturar o modelo de transporte da cidade: retomar as linhas de ônibus e integrá-las ao metrô, VLT e BRT", "alias": "Geraldo" },
+			  { "id": 2, "proposta": "Instituir, paulatipropostante, a Tarifa Zero a fim de garantir o direito à saúde, à educação, ao trabalho e ao lazer garantidos e incentivar o comércio e as pequenas empresas locais", "alias": "Kleber" },
+			  { "id": 3, "proposta": "Integrar ciclofaixas e ciclovias às estações de Metrô e BRT, aumentando a possibilidade de ciclistas incorporarem esses meios em seus deslocamentos", "alias": "Bruno" },
+			  { "id": 4, "proposta": "Implantar corredor de ligação da Orla à Cidade Baixa, via San Martin, com prioridade para o sistema de Transporte Público", "alias": "Bruno" },
+			  { "id": 5, "proposta": "Valorização do transporte alternativo (taxistas, mototaxistas e motoristas por aplicativos)", "alias": "Geraldo" },
+			  { "id": 6, "proposta": "Ampliar as faixas exclusivas para ônibus", "alias": "Kleber" }
+  
+			]
+		},
+		{
+			"id": 4,
+			"question": "Na educação para você seria melhor ?",
+			"options": [
+			  { "id": 1, "proposta": "Implementar a educação ambiental como disciplina obrigatória no currículo da rede municipal de ensino", "alias": "Kleber" },
+			  { "id": 2, "proposta": "Climatizar 100% das salas de aula até 2025", "alias": "Bruno" },
+			  { "id": 3, "proposta": "Garantir internet com estabilidade, qualidade e velocidade, a partir da Infovia Salvador, em todas as salas de aula do Fundamental I e II", "alias": "Bruno" },
+			  { "id": 4, "proposta": "Garantir que trabalhadoras e trabalhadores do regime especial de direito administrativo - REDA tenham a mesma carga horária do docente efetivo", "alias": "Kleber" },
+			  { "id": 5, "proposta": "Programa Pé-de-meia municipal: poupança para os estudantes nos anos iniciais e finais do ensino fundamental", "alias": "Geraldo" }
+  
+			]
+		},
+		{
+			"id": 5,
+			"question": "Na saude qual sua opnião ?",
+			"options": [
+			  { "id": 1, "proposta": "Criar o Programa Domingão da Saúde com a ampliação da oferta de cirurgias eletivas e exames em rede própria e contratualizada em finais de semana", "alias": "Bruno" },
+			  { "id": 2, "proposta": "Construir novos postos de saúde e contratar 300 novas equipes de saúde da família, saúde bucal e agentes comunitários. Reformar os postos que já existem e reduzir as filas com a implantação do agendamento eletrônico para ampliar os serviços ofertados", "alias": "Geraldo" },
+			  { "id": 3, "proposta": "Implantar 10 policlínicas nos distritos sanitários com ampla oferta de exames, consultas especializadas e cirurgias de baixa complexidade. As novas unidades de saúde se juntarão às policlínicas do Estado de Escada e Narandiba", "alias": "Geraldo" },
+			  { "id": 4, "proposta": "Adequar, progressivamente, todas as USF – Unidades de Saúde da Família para possibilitar o atendimento integral da pessoa com deficiência", "alias": "Kleber" },
+			  { "id": 5, "proposta": "Implantar uma nova Central da Regulação e do SAMU e novas bases descentralizadas", "alias": "Bruno" },
+			  { "id": 6, "proposta": "Criar uma escola-clínica para as pessoas com autismo que não conseguem sua integração nas classes comuns de ensino regular por conta de suas demandas", "alias": "Kleber" }
+  
+			]
+		},
+		{
+			"id": 6,
+			"question": "Pra finalizar qual das abaixo voçê mais desejaria ?",
+			"options": [
+     		  { "id": 1, "proposta": "Criar mais 15 centros de acolhimento à população de rua (Centros POP) e mais 30 Centros de Referência da Assistência Social (CRAS); implantar o Corra pro Abraço Salvador – Serviço de acolhimento e abordagem social para população em situação de rua", "alias": "Geraldo" },
+			  { "id": 2, "proposta": "Ampliar o apoio às Paradas LGBTQIA+ de bairro", "alias": "Bruno" },
+			  { "id": 3, "proposta": "Implantar 10 policlínicas nos distritos sanitários com ampla oferta de exames, consultas especializadas e cirurgias de baixa complexidade. As novas unidades de saúde se juntarão às policlínicas do Estado de Escada e Narandiba", "alias": "Geraldo" },
+			  { "id": 4, "proposta": "Estimular a concessão de microcrédito para microempresas através da abertura de editais", "alias": "Kleber" },
+			  { "id": 5, "proposta": "Combater o assédio moral no trabalho com mecanismos de denúncia e controle", "alias": "Kleber" },
+			  { "id": 6, "proposta": "Ofertar o CadÚnico em todas as unidades assistenciais da rede", "alias": "Bruno" }
+  
+			]
+		}
+      ],
+
+	  "results": {
+		"Bruno": "Suas escolhas são mais coerente com as proposta de Bruno Reis",
+		"Kleber": "Suas escolhas são mais coerente com as proposta de Kleber Rosa",
+		"Geraldo": "Suas escolhas são mais coerente com as proposta de Geraldo Júnior"
+	  }
+
+    },
+	{
+		"id": 4,
+		"sigla": "Belo Horizonte",
+		"questions": [
+		  {
+			"id": 1,
+			"question": "Sobre social o que você gostaria ?",
+			"options": [
+			  { "id": 1, "proposta": "Promover programa de acessibilidade à regularização fundiária", "alias": "Mauro" },
+			  { "id": 2, "proposta": "Diversificação do acesso à moradia, possibilitando o aluguel social, concessão de albergue e auxílio para acolhimento familiar", "alias": "Fuad" },
+			  { "id": 3, "proposta": "Construção e revitalização de campos de futebol, priorizando a implantação de grama sintética, a fim de facilitar a prática esportiva", "alias": "Bruno" },
+			  { "id": 4, "proposta": "contratação, pela Prefeitura, dos beneficiários do programa para a realização de trabalhos de zeladoria, limpeza urbana, portaria, segurança, jardinagem, capina, considerando eventual experiência prévia", "alias": "Fuad" },
+			  { "id": 5, "proposta": "Designar intérpretes de Libras para auxiliarem no atendimento à população de surdos e de mudos nas repartições públicas", "alias": "Bruno" }
+			]
+		  },
+		  {
+			"id": 2,
+			"question": "Economicamente o que é interessante para você ?",
+			"options": [
+			  { "id": 1, "proposta": "Fortalecer e ampliar as políticas voltadas para o turismo na cidade, principalmente explorando a vocação de eventos culturais e gastronômicos, contribuindo para a geração de mais empregos e renda para a população;", "alias": "Bruno" },
+			  { "id": 2, "proposta": "Estimular a criação de start-ups, incubadoras e aceleradoras, mediante a oferta de mentorias, financiamento e espaços de coworking", "alias": "Mauro" },
+			  { "id": 3, "proposta": "Criar incentivos fiscais para atração de empresas de base tecnológica para se instalarem em Belo Horizonte", "alias": "Bruno" },
+			  { "id": 4, "proposta": "Promover e incentivar a realização de feiras, exposições e mostras para conectar empreendedores criativos com investidores e consumidores", "alias": "Mauro" }
+			]
+		  },
+		  {
+			"id": 3,
+			"question": "Dentre as opções abaixo qual a que mais te agrada ?",
+			"options": [
+			  { "id": 1, "proposta": "Implementar sistema de monitoramento por vídeo do transporte coletivo, com transmissão de imagens em tempo real;", "alias": "Mauro" },
+			  { "id": 2, "proposta": "Aumentar o número de viagens dos ônibus e ampliar a quantidade de pontos dotados de abrigos", "alias": "Mauro" },
+			  { "id": 3, "proposta": "Implantação de um Programa de Políticas da Família com foco no fortalecimento de vínculos familiares, bem como na prevenção de violências intrafamiliares", "alias": "Bruno" },
+			  { "id": 4, "proposta": "Criação de sala sensorial em escolas que tenham alunos matriculados portadores do transtorno do espectro autista (TEA)", "alias": "Bruno" }
+			]
+		  },
+		  {
+			"id": 4,
+			"question": "Na saude qual sua opnião ?",
+			"options": [
+			  { "id": 1, "proposta": "Aumentar o horário de funciopropostanto de centros de saúde próximos às UPAs;", "alias": "Mauro" },
+			  { "id": 2, "proposta": "Implantação do Teleatendimento, trazendo mais comodidade para a população e descongestionando as unidades", "alias": "Bruno" },
+			  { "id": 3, "proposta": "Adotar, amplamente, o veículo móvel para a vacinação da população", "alias": "Mauro" },
+			  { "id": 4, "proposta": "Implementar busca de todo o histórico do paciente", "alias": "Fuad" },
+			  { "id": 5, "proposta": "Criação de aplicativo que informe, em tempo real, a situação das filas nas unidades de saúde, marcação de consultas, exames, disponibilidade de medicamentos, vacinas,entre outros assuntos, sem que seja necessário o deslocamento até uma unidade", "alias": "Bruno" }
+			]
+		  },
+		  {
+			"id": 5,
+			"question": "Na educação para você seria melhor ?",
+			"options": [
+			  { "id": 1, "proposta": "Valorização de professores e demais funcionários da educação;", "alias": "Fuad" },
+			  { "id": 2, "proposta": "Entregar 12 novas escolas até 2025 e reinaugurar a Emei Pilar Olhos d’Água", "alias": "Fuad" },
+			  { "id": 3, "proposta": "Colocar em cada unidade escolar um psicólogo, um assistente social e um bibliotecário", "alias": "Mauro" },
+			  { "id": 4, "proposta": "Zerar a fila de espera por vagas na educação infantil", "alias": "Mauro" },
+			  { "id": 5, "proposta": "Implantar programa de intercâmbio para os alunos que de destacarem na escola", "alias": "Mauro" },
+			  {"id":6, "proposta": "Designação de Guardas Municipais para a promoção da segurança no ambiente escolar", "alias": "Bruno"},
+			  {"id":7, "proposta": "Garantir infraestrutura adequada em todas as escolas da capital, facilitando o aprendizado adequado dos alunos, incluindo a ampliação da parceria público-privada existente", "alias": "Bruno"}
+			]
+		  }
+		  
+		],
+		"results": {
+			"Mauro": "Suas escolhas são mais coerente com as proposta de Mauro Tramonte",
+			"Bruno": "Suas escolhas são mais coerente com as proposta de Bruno Engler",
+			"Fuad": "Suas escolhas são mais coerente com as proposta de Fuad Noman"
+		  }
+	},
+	{
+		"id": 5,
+		"sigla": "Curitiba",
+		"questions": [
+		  {
+			"id": 1,
+			"question": "Sobre social o que você gostaria ?",
+			"options": [
+			  { "id": 1, "proposta": "Atendimento Habitacional com Subsídio Financeiro para a população mais carente do Município", "alias": "PI" },
+			  { "id": 2, "proposta": "VoUrbanizar áreas irregulares e retirar 6.000 famílias de áreas imprópriasar", "alias": "Lu" },
+			  { "id": 3, "proposta": "Implantar a Rede Solidária para Pessoas em Situação de Rua", "alias": "Lu" },
+			  { "id": 4, "proposta": "Encaminhamentos para programas de capacitação por meio de cursos técnicos gratuitos, integrando a finalização dos cursos com as agências do trabalhador para encaminhamento a vagas de emprego previamente viabilizadas pelo diálogo entre a Prefeitura Municipal e a classe empresarial", "alias": "NE" },
+			  { "id": 5, "proposta": "Implementção do fundo municipal dos direitos da mulher", "alias": "NE" },
+			  { "id": 6, "proposta": "Elaboração e implementação de programa específico de aluguel social para provisão habitacional permanente e, consequentemente, redução do déficit habitacional", "alias": "PI" }
+			]
+		  },
+		  {
+			"id": 2,
+			"question": "Economicamente o que é interessante para você ?",
+			"options": [
+			  { "id": 1, "proposta": "Promover o consumo de alimentos produzidos na Região Metropolitana de Curitiba", "alias": "LU" },
+			  { "id": 2, "proposta": "Criar Mei curitibano", "alias": "NE" },
+			  { "id": 3, "proposta": "Trabalho para pessoas com deficiência / definir como linha especial do sistema um programa para o trabalho e profissionalização da pessoa com deficiência", "alias": "LU" },
+			  { "id": 4, "proposta": "Isenções tributárias para carga de preços do combustível e da manutenção dos ônibus e biocombustível", "alias": "PI" }
+			]
+		  },
+		  {
+			"id": 3,
+			"question": "Na saude qual sua opnião ?",
+			"options": [
+			  { "id": 1, "proposta": "Criar os CIA’s Complexos Interdisciplinares para Autistas, disponibilizando às pessoas com TEA a oferta unificada de terapias, fisioterapias e consultas neurológicas, além de atendimento psicológico para pais e mães, transporte adaptado e todas as demais atividades necessárias para o tratamento do autismo.", "alias": "NE" },
+			  { "id": 2, "proposta": "Agilizar a fila de consultas e exames do municipio", "alias": "NE" },
+			  { "id": 3, "proposta": "Retomar programa Mãe Curitibana", "alias": "LU" },
+			  { "id": 4, "proposta": "Criar Novo Hospital do Bairro Novo", "alias": "PI" }
+			]
+		  },
+		  {
+			"id": 4,
+			"question": "Na educação para você seria melhor ?",
+			"options": [
+			  { "id": 1, "proposta": "Contraturno escolar para as famílias que não optarem pelo ensino integral, a gestão disponibilizará atividades de contraturno esporádicas, incluindo o ", "alias": "NE" },
+			  { "id": 2, "proposta": "Novas unidades de educação integral com metodologia Montessoriana", "alias": "PI" },
+			  { "id": 3, "proposta": "Plano de valorização para as unidades com melhores resultados", "alias": "PI" },
+			  { "id": 4, "proposta": "Aqueles que ocuparem cargos de direção e gestão escolar terão à sua disposição cursos e treipropostantos nos campos administrativo e financeiro", "alias": "NE" },
+			  { "id": 5, "proposta": "Matricular na Educação Infantil todas as crianças de quatro e cinco anos", "alias": "LU" },
+			  { "id": 6, "proposta": "Ampliar o tempo de permanência na escola", "alias": "LU" }	
+			]
+		  },
+		  {
+			"id": 5,
+			"question": "Na Segurança para você seria melhor ?",
+			"options": [
+			  { "id": 1, "proposta": "Programa de prevenção do suicídio na Guarda Municipal", "alias": "PI" },
+			  { "id": 2, "proposta": "A implantação de lombadas eletrônicas, travessias elevadas e semáforos serão decididas em conjunto com a população que reside, estuda ou trabalha na localidade, através de consulta prévia", "alias": "NE" },
+			  { "id": 3, "proposta": "Identificação de foragidos da justiça que se misturam às pessoas em situação de rua para evitar sanções penais, para, em conjunto com as forças policiais estaduais e municipais, possibilitar as respectivas capturas", "alias": "NE" },
+			  { "id": 4, "proposta": "A proposta é implementação do Sistema Único de Segurança Pública – SUSP, com a criação da Polícia Municipal de Curitiba", "alias": "LU" }
+			]
+		  },
+		  {
+			"id": 5,
+			"question": "Na Mobilidade urbana o que vc gostaria ?",
+			"options": [
+			  { "id": 1, "proposta": "Permissão para a veiculação de propaganda publicitária no interior do transporte coletivo e dos terminais", "alias": "NE" },
+			  { "id": 2, "proposta": "Reimplantação da tarifa domingueira: reduzir o valor da tarifa aos domingos", "alias": "LU" },
+			  { "id": 3, "proposta": "Converter Transporte Público Urbano para uso de biocombustível (B-100", "alias": "LU" },
+			  { "id": 4, "proposta": "VLT Metropolitano", "alias": "PI" },
+			  { "id": 5, "proposta": "Implantação dos semáforos inteligentes nas canaletas do transporte coletivo, viabilizando integração entre o semáforo e sistema de bilhetagem, visando permitir acesso prioritário ao transporte coletivo.", "alias": "PI" },
+			  { "id": 6, "proposta": "Vias expressas das avenidas darão lugar para as ciclovias, jardins horizontais e pistas mais largas, melhorando fundamentalmente o fluxo de veículos", "alias": "NE" }
+			]
+		  }
+		],
+		"results": {
+			"PI": "Suas escolhas são mais coerente com as proposta de Eduardo Pimentel",
+			"Lu": "Suas escolhas são mais coerente com as proposta de Luciano Ducci",
+			"NE": "Suas escolhas são mais coerente com as proposta de Ney Leprevost"
+		  }
+	},
+	{
+		"id": 10,
+		"sigla": "Goiânia",
+		"questions": [
+		  {
+			"id": 1,
+			"question": "Sobre o social o que você gostaria ?",
+			"options": [
+			  { "id": 1, "proposta": "Criar mecanismos que facilitem o acesso da pessoa idosa, especialmente aquelas com mobilidade reduzida, a serviços de saúde, educação e eventos esportivos e culturais", "alias": "VA" },
+			  { "id": 2, "proposta": "Programa de regularização fundiária para solucionar problemas que se tornaram estruturais em vários baixos de Goiânia", "alias": "AD" },
+			  { "id": 3, "proposta": "Qualificar a ocupação de cuidador, oferecendo formação e suporte psicológico", "alias": "MA" },
+			  { "id": 4, "proposta": "Garantir à população LGBTQIA+ acesso integral aos serviços de saúde, aos serviços sociais e suporte para a regularização de documentos básicos de identificação e acesso aos benefícios previdenciários", "alias": "MA" },
+			  { "id": 6, "proposta": "Criar o Projeto Família na Escola que benefi ciará mães que queiram estudar. Elas poderão levar os fi lhos para a escola que fi carão aos cuidados de agentes educativos", "alias": "VA" }
+			]
+		  },
+		  {
+			"id": 2,
+			"question": "Sobre a segurança de Goiânia ?",
+			"options": [
+			  { "id": 1, "proposta": "Aquisição de drones com Inteligência Artificial para monitoramento da cidade", "alias": "MA" },
+			  { "id": 2, "proposta": "Criar o Centro Digital de Resposta e Cidadania que buscará cooperação pública e privada para o compartilhamento de informações", "alias": "VA" },
+			  { "id": 3, "proposta": "Criação de um Conselho Municipal de Segurança Pública", "alias": "AD" },
+			  { "id": 4, "proposta": "Criar Centrais Únicas de Atendimento ao Cidadão nas delegacias de polícia", "alias": "VA" },
+			  { "id": 5, "proposta": "Implementar um aplicativo para que mulheres em perigo acionem rapidamente a guarda municipal, a polícia ou um centro de monitoramento", "alias": "MA" }
+			]
+		  },
+		  {
+			"id": 3,
+			"question": " E sobre a econômia de Goiânia ?",
+			"options": [
+			  { "id": 1, "proposta": "Simplificar o processo de cadastramento de MEIs e criar certames que permitam a prestação de serviços ao governo, como pequenos reparos e manutenções. ", "alias": "MA" },
+			  { "id": 2, "proposta": "Criar e oferecer incentivos municipais para atração e retenção de empresas comerciais e industriais", "alias": "VA" },
+			  { "id": 3, "proposta": "Facilitar o acesso a crédito para micro e pequenos empresários através de convênios com instituições públicas e privadas", "alias": "VA" },
+			  { "id": 4, "proposta": "Criar o Programa Formaliza aí! para incentivar, apoiar e viabilizar a formalização de negócios em situação irregular", "alias": "MA" }
+			]
+		  },
+		  {
+			"id": 4,
+			"question": "Na educação o que se fazer ?",
+			"options": [
+			  { "id": 1, "proposta": "Garantir financiamento, acesso, permanência, inclusão e conclusão dos estudos para todos ", "alias": "AD" },
+			  { "id": 2, "proposta": "Valorização de profissionais com formação, plano de carreira, remuneração adequada e condições dignas de trabalho", "alias": "AD" },
+			  { "id": 3, "proposta": "Diversificar o cardápio da merenda escolar em relação aos alimentos e garantir formação para merendeiros manipularem, prepararem e servirem os alimentos", "alias": "MA" },
+			  { "id": 4, "proposta": "Investir fortemente em ensino da língua portuguesa, da leitura, da matemática, das ciências humanas e das ciências da natureza no ensino fundamental I (anos iniciais)", "alias": "VA" },
+			  { "id": 5, "proposta": "Criar escola-piloto de educação bilíngue de excelência na educação infantil e fundamental I (anos iniciais)", "alias": "VA" }
+
+			]
+		  },
+		  {
+			"id": 5,
+			"question": "Na Saúde qual alternativa mais te agrada ?",
+			"options": [
+			  { "id": 1, "proposta": "Implantar atendimento pediátrico 24h nas unidades de urgência e emergência", "alias": "MA" },
+			  { "id": 2, "proposta": "Criar o Programa de Atenção Materna, que garante a saúde da mãe e do bebê desde a gestação até 1 ano de idade", "alias": "MA" },
+			  { "id": 3, "proposta": "Saude integral de qualidade para todas as pessoas em todos os níveis ", "alias": "AD" },
+			  { "id": 4, "proposta": "Implantar horário expandido de atendimento nas Unidades Básicas de Saúde", "alias": "VA" },
+			  { "id": 5, "proposta": "Instalar o serviço de Saúde em Casa para oferecer assistência integral em saúde domiciliar de acordo com a necessidade clínica do paciente, para os pacientes acamados e ou com impossibilidade de locomoção", "alias": "VA" }
+
+			]
+		  },
+		  {
+			"id": 6,
+			"question": "Quanto a Mobilidade Urbana qual alternativa mais te agrada ?",
+			"options": [
+			  { "id": 1, "proposta": "Redução da velocidade no Centro da cidade", "alias": "AD" },
+			  { "id": 2, "proposta": "Expansão e integração de ciclofaixas e ciclorotas", "alias": "AD" },
+			  { "id": 3, "proposta": "Permitir conversão à direita com sinal fechado", "alias": "MA" },
+			  { "id": 4, "proposta": "Preparar a infraestrutura urbana para o aumento de veículos elétricos", "alias": "VA" },
+			  { "id": 5, "proposta": "Integrar o uso de tecnologia na gestão da cidade por meio de sistemas de gestão de tráfego em tempo real", "alias": "MA" },
+			  { "id": 4, "proposta": "Tratar com a merecida atenção as demandas de taxistas e motoristas de aplicativos", "alias": "VA" }
+
+			]
+		  }
+		],
+		"results": {
+			"MA": "Suas escolhas são mais coerente com as proposta de Sandro Mabel",
+			"AD": "Suas escolhas são mais coerente com as proposta de Adriana Accorsi",
+			"VA":  "Suas escolhas são mais coerente com as proposta de Vanderlan Cardoso"
+		
+		}
+	  }
+
+  ]
+}
