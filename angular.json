@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "buzzfeed": {
+    "yourchoice": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/buzzfeed",
+            "outputPath": "dist/yourchoice",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -63,10 +63,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "buzzfeed:build:production"
+              "buildTarget": "yourchoice:build:production"
             },
             "development": {
-              "buildTarget": "buzzfeed:build:development"
+              "buildTarget": "yourchoice:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -74,7 +74,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "buildTarget": "buzzfeed:build"
+            "buildTarget": "yourchoice:build"
           }
         },
         "test": {
